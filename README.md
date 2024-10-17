@@ -38,6 +38,9 @@ Here's a walkthrough of implemented required features:
 <img src='./CarApp.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <img src='./database.png' />
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/qOqpzR8"  ><a href="//imgur.com/a/qOqpzR8">Car Customization App + Database</a></blockquote>
+
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  OBS, CloudConvert, Imgur
 <!-- Recommended tools:
